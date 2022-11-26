@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sample Page</title>
+    </head>
+    <body>
+        {% if latest_question_list %}
+            <ul>
+                {% for questions in latest_question_list %}
+                    <li><a href="/{{questions.id}}/vote">{{questions.question_text}}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p> No Questions are Available</p>
+        {% endif %}
+    </body>
+</html>

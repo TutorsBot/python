@@ -1,0 +1,9 @@
+Exercise 1:
+Create a List of Person with 10 items and Loop through the List.
+
+Exercise 2:
+Create a Function that accepts Five Parameters, three are optional 
+with default values.
+
+Exercise 3:
+Create Switch Cases for Addition, Subraction, Multiplication, Division and Reminder

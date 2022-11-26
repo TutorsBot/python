@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: app-name
+Version: 1.0
+Summary: A brief synopsis of the project
+Home-page: https://github.com/BenjaminFranline
+Author: Bejamin Frakline
+Keywords: development,setup,setuptools
+Requires-Python: >=3.7, <4
+
+A much longer explanation of the project and helpful resources
